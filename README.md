@@ -1,0 +1,1 @@
+# SQL-JOIN-Create-temp.Table
